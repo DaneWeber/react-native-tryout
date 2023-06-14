@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "react-native-tryout",
+    "slug": "react-native-tryout",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "react-native-tryout"
+}
